@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChickenPige0n
-- 👀 I’m interested in Minecraft
-- 🌱 I’m currently learning Jave
-- 🔈↑🔈↓
+- Hi, I’m @ChickenPige0n
+- contact me:
+- bilibili:https://space.bilibili.com/433525330
+- QQ:2336983354
