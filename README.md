@@ -1,6 +1,6 @@
 - Hi, I’m @ChickenPige0n
 
-- I'm a senior 2 student studying in Dongguan Middle School-SSL School.
+- I'm a graduate student from Dongguan Middle School-SSL School.
 
 - I like playing Minecraft and Phigros.
 - You can contact me at:
