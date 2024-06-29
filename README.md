@@ -4,5 +4,5 @@
 
 - I like playing Minecraft and Phigros.
 - You can contact me at:
-- bilibili:https://space.bilibili.com/433525330
+- mail:2336983354@qq.com
 - QQ:2336983354
