@@ -3,7 +3,7 @@
 - Student.
 - Personal website: [ChickenPige0n.store](https://ChickenPige0n.store)
 
-## A Random Nonsense List:
+## My Experiences:
 - Java | C# | js/ts | rust | c/c++
 - Svelte
 - ElysiaJS
