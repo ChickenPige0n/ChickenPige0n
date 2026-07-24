@@ -13,4 +13,3 @@
 
 ## Contacts
 - mail: me@ckpg.net
-- QQ: Maybe find it somewhere else / 😀
