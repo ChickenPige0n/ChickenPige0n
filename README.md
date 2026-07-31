@@ -4,7 +4,7 @@
 - Personal website: [ckpg.net](https://ckpg.net)
 
 ## My Experiences:
-- Java | C# | js/ts | rust | c/c++
+- Java | C# | JS/TS | Rust | C/C++
 - Svelte
 - ElysiaJS
 - Fabric
